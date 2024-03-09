@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar > li {
+    padding: 0 24px;
+}
+
+.profile {
+    display: flex;
+}
+
+.profile > .profile_item {
+    padding: 0 10px;
+}

@@ -1,0 +1,11 @@
+.txt {
+    color: red;
+    font-size: 30px;
+}
+
+.btn {
+    width: 120px;
+    height: 45px;
+    background: yellow;
+    color: black;
+}
