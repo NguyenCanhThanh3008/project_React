@@ -1,0 +1,27 @@
+.top_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top_container_item {
+    display: flex;
+    align-items: center;
+}
+
+.top_container_item > .icon {
+    margin-right: 12px;
+}
+
+.top_categories,
+.featured_products {
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+}
+
+.cate_content {
+    display: flex;
+    font-size: 16px;
+    font-weight: 400;
+}
